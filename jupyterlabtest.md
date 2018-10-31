@@ -1,3 +1,5 @@
+This markdown example is taken from:  https://markdown-it.github.io/
+
 ---
 __Advertisement__
 
