@@ -13,7 +13,7 @@ To get started with the workshop, please click either:
 
 At the end of the workshop, we will look more closely at Binder, including links for:
 
-Jupyter + R: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benjum/idre-intro-to-jupyter/master?filepath=kernels-other/R-stat-example-logit-regr.ipynb)
+Jupyter + R: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benjum/idre-intro-to-jupyter/master?filepath=extra-materials/R-example/R-stat-example-logit-regr.ipynb)
 
 RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benjum/idre-intro-to-jupyter/master?urlpath=rstudio)
 
